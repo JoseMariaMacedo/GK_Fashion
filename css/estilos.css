@@ -589,7 +589,7 @@ nav ul ul ul {
 }
 
 
-/*--NOVIDADES--*/
+/*--ESTILIZAÇÃO DA ABA DE NOVIDADES--*/
 
 .ia-container {
 	width: 100%;
@@ -850,7 +850,7 @@ button:active {
 	}
 }
 
-/*--CONTATO--*/
+/*--PÁGINA DE CONTATOS--*/
 .contact {
 	width: 100%;
 	background: #fff;
@@ -904,7 +904,7 @@ textarea {
 	resize: none;
 }
 
-/*--CARTAO FIDELIDADE--*/
+/*--PÁGINA DO CARTAO FIDELIDADE--*/
 .accordion {
 	width: 100%;
 	margin: 0 auto;
@@ -984,7 +984,7 @@ textarea {
 		box-shadow: 0 1px 1px #aaa;
 	}
 
-/*--SOBRE--*/
+/*--PÁGINA SOBRE--*/
 
 	article {
 		float: left;
